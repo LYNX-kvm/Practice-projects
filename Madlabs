@@ -1,7 +1,7 @@
 # chat gpt prompt: I am making a madlibs generator in python. I need a story where the user can give me some words. Can u give me the story and for all the words that the user needs to give, make them like this <word>. Don't make the story too long
-# put story in story.txt
+# put story in madlabsstory.txt
 
-with open("story.txt", "r") as f:
+with open("story_madlabs.txt", "r") as f:
   story = f.read()
 
 words = set()
