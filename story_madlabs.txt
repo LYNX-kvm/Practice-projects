@@ -1,9 +1,0 @@
-One day, <name> went to the <place> to buy some <plural_noun>. On the way, they met a <adjective> <animal> who was wearing a <color> <piece_of_clothing>. "<exclamation>!" said <name>. "Why are you here?"
-
-The <animal> replied, "I am here to find the perfect <noun> to bring to my <place>."
-
-Together, they searched high and low, until finally, they found a <adjective> <object>. It was exactly what they needed!
-
-"Thank you, <name>!" said the <animal>. "You're the best <profession> in the whole <place>!"
-
-And with that, they became <adjective> friends forever.
